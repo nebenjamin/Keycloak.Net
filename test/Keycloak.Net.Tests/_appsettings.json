@@ -1,0 +1,5 @@
+{
+    "url":"<Keycloak URL>",
+    "userName":"<admin account username>",
+    "password":"<admin account password>"
+}
